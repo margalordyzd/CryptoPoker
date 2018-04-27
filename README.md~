@@ -51,8 +51,6 @@ This newly created conversation will allow both of the players to interact with 
 
 The cardimages are stored with IPFS to ensure inmutability of the cards. Each of the cards wil have its own  IPFS address and the only time a player will have acces to all of them will be at the beggining of the game.
 
-	https://gateway.ipfs.io/ipfs/Qmeg8FeV6TTLQLiCh6tBTZtqHhgAGj3ELwNQMmFeTUsQAh
-
 The player1 will start the game. we will use a tequnique based on additive ecryption in order to ensure the legality of the game.
 
 ### Additive encryption
